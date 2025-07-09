@@ -1,0 +1,10 @@
+header nav{
+display: flex;
+border: 2px solid black;
+}
+main div{
+    border: 2px solid black;
+}
+footer{
+    border: 2px solid black;
+}
